@@ -1,5 +1,6 @@
 # Escriba una función que muestre todos los números primos entre 1 y un número n que es 
 # ingresado por parámetro.
+#
 
 """n=int(input("Ingrese un número:"))
 def mostrar_primos(n):
